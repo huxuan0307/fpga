@@ -1,0 +1,59 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/TOOLS/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 85b8ed08e0284f00b2f042703e0b48d5 --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot cpu_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 xil_defaultlib.cpu_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "cpu_tb_time_synth.sdf", for root module "cpu_tb/top".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "cpu_tb_time_synth.sdf", for root module "cpu_tb/top".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=9.125...
+Compiling module xil_defaultlib.clk_wiz_1_clk_wiz_1_clk_wiz
+Compiling module xil_defaultlib.clk_wiz_1
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module simprims_ver.sffsrce_fdre
+Compiling module simprims_ver.FDRE
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.MUXF7
+Compiling module simprims_ver.MUXF8
+Compiling module simprims_ver.FDRE(IS_C_INVERTED=1'b1)
+Compiling module xil_defaultlib.dmem
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.x_lut3_mux4
+Compiling module simprims_ver.x_lut3_mux4_reduced_0
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.latchsre_ldce
+Compiling module simprims_ver.LDCE
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.Regfiles
+Compiling module simprims_ver.GND
+Compiling module xil_defaultlib.dist_mem_gen_0_dist_mem_gen_v8_0...
+Compiling module xil_defaultlib.dist_mem_gen_0
+Compiling module simprims_ver.FDRE(INIT=1'b1)
+Compiling module xil_defaultlib.NPC
+Compiling module simprims_ver.ffsrce_fdce
+Compiling module simprims_ver.FDCE(IS_C_INVERTED=1'b1)
+Compiling module simprims_ver.ffsrce_fdpe
+Compiling module simprims_ver.FDPE(IS_C_INVERTED=1'b1)
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.pc_hier
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.FDCE
+Compiling module simprims_ver.FDPE
+Compiling module xil_defaultlib.seg7x16
+Compiling module xil_defaultlib.top_cpu_7seg
+Compiling module xil_defaultlib.cpu_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_tb_time_synth

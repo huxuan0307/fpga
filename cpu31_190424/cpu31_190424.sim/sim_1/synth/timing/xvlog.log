@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_code/fpga/cpu31_190424/cpu31_190424.sim/sim_1/synth/timing/cpu_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_1
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module Regfiles
+INFO: [VRFC 10-311] analyzing module add
+INFO: [VRFC 10-311] analyzing module clk_wiz_1_clk_wiz_1_clk_wiz
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-311] analyzing module pc_hier
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-311] analyzing module seg7x16
+INFO: [VRFC 10-311] analyzing module top_cpu_7seg
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0_dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_code/fpga/cpu31_190424/cpu31_190424.srcs/sim_1/new/cpu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_tb

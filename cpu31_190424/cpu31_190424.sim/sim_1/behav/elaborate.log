@@ -1,0 +1,38 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/TOOLS/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 85b8ed08e0284f00b2f042703e0b48d5 --debug typical --relax --mt 2 -L xil_defaultlib -L xpm -L dist_mem_gen_v8_0_10 -L unisims_ver -L unimacro_ver -L secureip --snapshot cpu_tb_behav xil_defaultlib.cpu_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.seg7x16
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=9.125...
+Compiling module unisims_ver.BUFG
+Compiling module xil_defaultlib.clk_wiz_1_clk_wiz
+Compiling module xil_defaultlib.clk_wiz_1
+Compiling module xil_defaultlib.extend_default
+Compiling module xil_defaultlib.extend(sWIDTH=5)
+Compiling module xil_defaultlib.extend(sWIDTH=18)
+Compiling module xil_defaultlib.imem_devide
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.MUX4(WIDTH=32)
+Compiling module xil_defaultlib.pc_hier
+Compiling module xil_defaultlib.cu
+Compiling module xil_defaultlib.MUX4(WIDTH=5)
+Compiling module xil_defaultlib.Regfiles
+Compiling module xil_defaultlib.MUX(WIDTH=32)
+Compiling module xil_defaultlib.ALU
+Compiling module dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10(C_FAMILY="a...
+Compiling module xil_defaultlib.dist_mem_gen_0
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module xil_defaultlib.top_cpu_7seg
+Compiling module xil_defaultlib.cpu_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_tb_behav

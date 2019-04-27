@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "cpu_tb_time_synth.v" --include "../../../../cpu31_190424.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib  "../../../../cpu31_190424.srcs/sim_1/new/cpu_tb.v" --include "../../../../cpu31_190424.ip_user_files/ipstatic/clk_wiz_v5_3_1"
+
+# Do not sort compile order
+nosort
